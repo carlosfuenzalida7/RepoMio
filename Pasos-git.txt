@@ -1,0 +1,58 @@
+//crear proyect
+npx create-react-app libros-react-app
+
+//ingresar a la carpeta
+cd libros-react-app
+
+//instalar librerias (nuevo)
+npm install pubsub-js
+npm install --save reactstrap react react-dom
+npm install rxjs
+
+// compilar
+npm start
+
+-- o --
+git
+
+github.com
+
+//…or create a new repository on the command line
+echo "# RepoMio" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/carlosfuenzalida7/RepoMio.git
+git push -u origin master
+//…or push an existing repository from the command line
+git remote add origin https://github.com/carlosfuenzalida7/RepoMio.git
+git push -u origin master
+//…or import code from another repository
+You can initialize this repository with code from a Subversion, Mercurial, or TFS project.
+
+
+// crear carpeta
+mkdir git_ejercicios
+
+// ingresamos a la carpeta
+cd git_ejercicios
+
+// boton derecho mouse
+seleccionamos Git Bash Here
+
+// una vez cargada la consola
+// definir mi repositorio local
+git init
+// enlazar con el repositorio remoto
+git remote add origin https://github.com/carlosfuenzalida7/RepoMio.git
+
+
+
+
+
+
+
+
+
+
+
